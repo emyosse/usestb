@@ -12,8 +12,10 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b22
 http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="http://www.totiptv.com/Product/Channel/images/PPTV-HD.png" group-title="01. DOLCOI iTV CHANNEL", PPTV HD
 http://183.182.100.184/live/pptvthai/index.m3u
-#EXTINF:-1 tvg-logo="http://tv9.co.id/images/logo.png" group-title="01. DOLCOI iTV CHANNEL",TV9 Nusantara
+#EXTINF:-1 tvg-logo="http://tv9.co.id/images/foot-icon.png" group-title="01. DOLCOI iTV CHANNEL",TV9 Nusantara
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tv9.co.id/images/foot-icon.png" group-title="02. RELIGI CHANNEL",TV9
+rtsp://wowza60.indostreamserver.com:1935/tv9/live
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="01. DOLCOI iTV CHANNEL",ANTV
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 ##EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/LjzMR1n.png?1" group-title="01. DOLCOI iTV CHANNEL",RCTI
@@ -84,8 +86,6 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:0 tvg-logo="http://onlineindo.tv/images/logo/tvparlemen.png" group-title="01. DOLCOI iTV CHANNEL",TV PARLEMEN NKRI
 http://103.16.220.69:1935/golive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tv9.co.id/images/logo.png" group-title="02. RELIGI CHANNEL",TV9
-rtsp://wowza60.indostreamserver.com:1935/tv9/live
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-NU-Channel-Logo-alpha-70x90px.png" group-title="02. RELIGI CHANNEL",NU CHANNEL
 http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-DMI-Channel-01-Edit-150x66px.jpg" group-title="02. RELIGI CHANNEL",DMI TV
