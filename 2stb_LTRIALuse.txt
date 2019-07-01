@@ -44,11 +44,11 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1144847896_b384000_sl
 http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-id="NetTV.id" tvg-logo="https://i.imgur.com/S81Oaez.jpg" group-title="01. DOLCOI iTV CHANNEL",NET TV
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png?v=1.0.0.0" group-title="01. DOLCOI iTV CHANNEL", INDOSIAR 
+#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/id/7/74/Liga_1_Shopee.png" group-title="01. DOLCOI iTV CHANNEL", INDOSIAR | Liga
 http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png?v=1.0.0.0" group-title="01. DOLCOI iTV CHANNEL", INDOSIAR | Liga
-#http://203.153.218.26:9981/stream/channelid/1508492680
-http://id2.indostreamingtv.com/live/tv111/index.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png?v=1.0.0.0" group-title="01. DOLCOI iTV CHANNEL", INDOSIAR
+http://203.153.218.26:9981/stream/channelid/1508492680
+#http://id2.indostreamingtv.com/live/tv111/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ochannel.png/800px-Ochannel.png" group-title="01. DOLCOI iTV CHANNEL", O CHANNEL | Liga 
 http://203.153.218.26:9981/stream/channelid/1389592976
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://i.imgur.com/oRNM7zs.jpg?1" group-title="01. DOLCOI iTV CHANNEL",MNC TV
