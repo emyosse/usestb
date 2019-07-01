@@ -8,18 +8,24 @@ http://stream1.ninmedia.tv/mktv/udp.stream_360p/playlist.m3u8
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 #EXTINF:0 tvg-logo="https://image.ibb.co/gSFLRz/karaoke_ch.jpg" group-title="07_MUSIC_CHANNEL",Karaoke Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/900936784934076417/9B_2H4oE_400x400.jpg" group-title="07_MUSIC_CHANNEL",NADA MUSLIM TV
+http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/29/BMSTV_2016.png/200px-BMSTV_2016.png" group-title="01. DOLCOI iTV CHANNEL",BMS TV
 http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="http://www.totiptv.com/Product/Channel/images/PPTV-HD.png" group-title="01. DOLCOI iTV CHANNEL", PPTV HD
 http://183.182.100.184/live/pptvthai/index.m3u
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.totiptv.com/Product/Channel/images/ch8_65x66.png" group-title="THAICOM",CHANNEL 8 HD
+http://stream.rs.co.th/ch8-hi/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.dekagon.id/logo/al_quran_al_kareem_tv.png" group-title="02. RELIGI CHANNEL",Qur'an TV
+http://203.153.218.26:9981/stream/channelid/1040846590?ticket=CBC4FA8BD35E2FCE84BB640501CBB864D1A779CD&profile=pass
 #EXTINF:-1 tvg-logo="http://tv9.co.id/images/foot-icon.png" group-title="01. DOLCOI iTV CHANNEL",TV9 Nusantara
-http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
+http://videostream.indostreamserver.com:1935/tv9/live/chunklist_w1646081470.m3u8
 #EXTINF:-1 tvg-logo="http://tv9.co.id/images/foot-icon.png" group-title="02. RELIGI CHANNEL",TV9
 rtsp://wowza60.indostreamserver.com:1935/tv9/live
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="01. DOLCOI iTV CHANNEL",ANTV
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 ##EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/LjzMR1n.png?1" group-title="01. DOLCOI iTV CHANNEL",RCTI
-
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/LjzMR1n.png?1" group-title="01. DOLCOI iTV CHANNEL",RCTI SD
 http://id8.indostreamingtv.com/live/tv66/index.m3u8
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/uMDcI4D.jpg?1" group-title="01. DOLCOI iTV CHANNEL",SCTV
@@ -41,7 +47,8 @@ http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png?v=1.0.0.0" group-title="01. DOLCOI iTV CHANNEL", INDOSIAR 
 http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png?v=1.0.0.0" group-title="01. DOLCOI iTV CHANNEL", INDOSIAR | Liga
-http://203.153.218.26:9981/stream/channelid/1508492680
+#http://203.153.218.26:9981/stream/channelid/1508492680
+http://id2.indostreamingtv.com/live/tv111/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ochannel.png/800px-Ochannel.png" group-title="01. DOLCOI iTV CHANNEL", O CHANNEL | Liga 
 http://203.153.218.26:9981/stream/channelid/1389592976
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://i.imgur.com/oRNM7zs.jpg?1" group-title="01. DOLCOI iTV CHANNEL",MNC TV
@@ -123,7 +130,10 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Al_Jazeera_Doc.png/150px-Al_Jazeera_Doc.png" group-title="EXPLORER",Al Jazeera Documentary
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/py_russia-today-hd_m.png" group-title="02_NEWS",RT
+https://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v5.m3u8
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_dwtv_big.png" group-title="02_NEWS",DW
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 
 
 
