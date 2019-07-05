@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/91/TVKU-BChannel.png/200px-TVKU-BChannel.png" group-title="STASIUNTV",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_tvri_big1.png" group-title="STASIUNTV",TVRI
 http://202.80.222.171/000001/2/ch14041511560872104862/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 
@@ -122,9 +126,6 @@ http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://nadamuslimtv.com/assets/images/logo.png" group-title="STASIUNTV",NADA MUSLIM TV
 http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/91/TVKU-BChannel.png/200px-TVKU-BChannel.png" group-title="STASIUNTV",TVKU
-http://103.30.1.14:8080/hls/live.m3u8
 
 #EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Kitanesia-logo-01-90px.png" group-title="STASIUNTV",KITANESIA
 http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
