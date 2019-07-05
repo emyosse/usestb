@@ -39,25 +39,25 @@ http://202.80.222.171/000001/2/ch14041511505498448705/1001.m3u8?virtualDomain=00
 #EXTINF:0 tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="STASIUNTV",RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/100px-INews.png" group-title="LOCAL CHANNEL",INEWS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/100px-INews.png" group-title="STASIUNTV",INEWS
 http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_tvone_big1.png" group-title="STASIUNTV",TVONE
 http://202.80.222.171/000001/2/ch14061215030555428637/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 
-#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png" group-title="STASIUNTV",METRO TV
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png" group-title="NEWS & GENERAL",METRO TV
 http://202.80.222.171/000001/2/ch14041511515576869807/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 
-#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png" group-title="STASIUNTV",KOMPAS TV
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png" group-title="NEWS & GENERAL",KOMPAS TV
 http://202.80.222.171/000001/2/ch00000090990000001730/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 
-#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_beritasatu_big1.png" group-title="STASIUNTV",BERITA SATU
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_beritasatu_big1.png" group-title="NEWS & GENERAL",BERITA SATU
 http://202.80.222.171/000001/2/ch00000090990000001683/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 
-#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png" group-title="STASIUNTV",CNN INDONESIA
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png" group-title="NEWS & GENERAL",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w82572914_b384000_sleng.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="STASIUNTV",CNBC INDONESIA
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="NEWS & GENERAL",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://live-tv-channels.in/pt-data/uploads/logo/id-rri-ne.jpg" group-title="NEWS & GENERAL",RRI NET
@@ -66,7 +66,7 @@ http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/59/TvTempo_%282014%29.png/220px-TvTempo_%282014%29.png" group-title="NEWS & GENERAL",TEMPO TV
 http://203.153.218.26:9981/stream/channelid/1916172973?ticket=A40A47199F252E43D11B8B09B8AA8D9FA01CC8D2&profile=pass
 
-#EXTINF:0 tvg-logo="http://onlineindo.tv/images/logo/tvparlemen.png" group-title="STASIUNTV,TV PARLEMEN NKRI
+#EXTINF:0 tvg-logo="http://onlineindo.tv/images/logo/tvparlemen.png" group-title="NEWS & GENERAL,TV PARLEMEN NKRI
 http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://jak-tv.com/theme/jaktv/images/repository/jaktv-header-logo.png" group-title="STASIUNTV",JAK TV
@@ -117,7 +117,7 @@ http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/91/TVKU-BChannel.png/200px-TVKU-BChannel.png" group-title="STASIUNTV",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/Elshinta_tv_logo.jpg/200px-Elshinta_tv_logo.jpg" group-title=STASIUNTV",ELSHINTA TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/Elshinta_tv_logo.jpg/200px-Elshinta_tv_logo.jpg" group-title="STASIUNTV",ELSHINTA TV
 http://rr2.dens.tv/s/s10/01.m3u8
 
 #EXTINF:0 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2019/04/sinema-indonesia.jpg" group-title="MOVIES",SINEMA INDONESIA
