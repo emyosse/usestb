@@ -165,5 +165,3 @@ http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://oona.tv/assets/img/channels/homeandliving.png" group-title="vENTERTAINMENT",HOME & LIVING
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/L2zt77U.jpg?1" group-title="ENTERTAINMENT",Hello
-http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
