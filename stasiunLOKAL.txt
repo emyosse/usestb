@@ -180,21 +180,10 @@ http://203.153.218.26:9981/stream/channelid/1474669592?ticket=C0150330F7DB0FA3E7
 #EXTINF:0 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png" group-title="ANAK-ANAK",EBS-KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
-
-#EXTINF:0 tvg-logo="http://acrotv.com/images/broad/20181001120904357.jpeg" group-title="MOVIES",HBO HOME
-http://109.248.236.41:4433/udp/238.1.1.71:1234
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/200px-HBO_logo.svg.png" group-title="MOVIES",HBO
-http://218.202.220.2:5000/nn_live.ts?id=HBO&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="MOVIES",HBO 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
-
-
 #EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Zing-150x86px.png" group-title="vMUSIC",POP MUSIC
 http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://static1.bigtvhd.com/uploads/bigtvhd/channel/mix.png" group-title="VMUSIC",MiX MUSIC
+#EXTINF:-1 tvg-logo="http://static1.bigtvhd.com/uploads/bigtvhd/channel/mix.png" group-title="vMUSIC",MiX MUSIC
 http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
 
 #EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-150x90px.png" group-title="vMUSIC",MALEO
@@ -212,7 +201,7 @@ https://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 #EXTINF:0 tvg-logo="https://b4uplus.com/images/logo.png" group-title="vMUSIC",B4U PLUS
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/90scartoons/images/b/bc/Mtv-logo-Logo.png" group-title="VMUSIC",MTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/175px-MTV_Logo_2010.svg.png" group-title="vMUSIC",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/200px-Radio_m2o_-_Logo_2019.svg.png" group-title="vMUSIC",M2O TV
@@ -305,3 +294,11 @@ http://203.153.218.26:9981/stream/channelid/855888891?ticket=75B240529141E86B871
 #EXTINF:0 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/06/DAvinci-Learning.jpg" group-title="KNOWLEDGE",DA VINCI LEARNING
 http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8
 
+#EXTINF:0 tvg-logo="http://acrotv.com/images/broad/20181001120904357.jpeg" group-title="MOVIES",HBO HOME
+http://109.248.236.41:4433/udp/238.1.1.71:1234
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/200px-HBO_logo.svg.png" group-title="MOVIES",HBO
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="MOVIES",HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
