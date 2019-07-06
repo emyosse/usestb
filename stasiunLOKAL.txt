@@ -105,13 +105,13 @@ rtmp://119.235.249.58:1935/tahfidztv/live
 #EXTINF:0 tvg-logo="http://ahsan.tv/wp-content/uploads/2017/08/cropped-WhatsApp-Image-2017-08-08-at-11.16.14-1.jpeg" group-title="STASIUNTV",AHSAN TV
 rtmp://119.82.224.75:1935/live/ahsantv
 
-#EXTINF:0 tvg-logo="http://www.insantv.com/wp-content/uploads/sites/2/2017/05/logo.png" group-title="STASIUNTV",INSAN TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/insan_id_tv.png" group-title="STASIUNTV",INSAN TV
 http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/05/Rodja-TV.jpg" group-title="STASIUNTV",RODJA TV
 http://rr2.dens.tv/s/s14/index1.m3u8
 
-#EXTINF:0 tvg-logo="http://tv9.co.id/images/logo.png" group-title="STASIUNTV",TV9
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png" group-title="STASIUNTV",TV9 NUSANTARA
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-NU-Channel-Logo-alpha-70x90px.png" group-title="STASIUNTV",NU CHANNEL
@@ -123,10 +123,10 @@ http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple19/v4/d9/7d/1c/d97d1c29-b4d9-af7b-0ab4-b6d3fa73e593/mzl.skymjhuf.png/1200x630wa.png" group-title="STASIUNTV",ASWAJA TV
 http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://nadamuslimtv.com/assets/images/logo.png" group-title="STASIUNTV",NADA MUSLIM TV
+#EXTINF:-1 tvg-logo="http://nadamuslimtv.com/assets/images/logo.png" group-title="STASIUNTV",NADA MUSLIM TV
 http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
 
-#EXTINF:0, tvg-logo-"http://sbctv.id/wp-content/uploads/2016/08/logo-SBC-300x150.png" group-title="STASIUNTV",SBCTV JATIM
+#EXTINF:-1 tvg-logo-"http://sbctv.id/wp-content/uploads/2016/03/sbc-400x466.png" group-title="STASIUNTV",SBCTV JATIM
 http://wowza58.indostreamserver.com:1935/langoday/live/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/91/TVKU-BChannel.png/200px-TVKU-BChannel.png" group-title="STASIUNTV",TVKU
@@ -147,7 +147,7 @@ https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.co
 #EXTINF:0 tvg-logo="https://images.useetv.com/logo_fight_big1.png?v=2.0.0.11" group-title="OLAHRAGA",FIGHT SPORTS
 http://45.126.83.51/uq2663/h/h05/index2.m3u8
 
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/fox_sports_global.png" group-title="OLAHRAGA",FOX SPORTS 506HD
+#EXTINF:-1 logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SPS/SPE_290x170.png" group-title="OLAHRAGA",FOX SPORTS 506HD
 http://45.58.62.92:8080
 
 #EXTINF:0 group-title="OLAHRAGA",F51 SPORTS
@@ -192,28 +192,28 @@ http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-MK-Tv-logo-final-color-113x90px.png" group-title="vMUSIC",MK TV
 http://stream1.ninmedia.tv/mktv/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/Hungama_TV_logo.png" group-title="vMUSIC",POP HITS |HUNGAMA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/Hungama_TV_logo.png" group-title="vMUSIC",POP HITS Bollywood
 https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/Hungama_TV_logo.png" group-title="vMUSIC",DIL SE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/Hungama_TV_logo.png" group-title="vMUSIC",DIL SE
 https://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 
-#EXTINF:0 tvg-logo="https://b4uplus.com/images/logo.png" group-title="vMUSIC",B4U PLUS
+#EXTINF:-1 tvg-logo="https://b4uplus.com/images/logo.png" group-title="vMUSIC",B4U PLUS
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/175px-MTV_Logo_2010.svg.png" group-title="vMUSIC",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/200px-Radio_m2o_-_Logo_2019.svg.png" group-title="vMUSIC",M2O TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/200px-Radio_m2o_-_Logo_2019.svg.png" group-title="vMUSIC",RADIOM2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
-#EXTINF:0, group-title="vMUSIC",TOP LATINO TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png"  group-title="vMUSIC",TOP LATINO TV
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
 
 #EXTINF:0, group-title="vMUSIC",FoxMix Musica
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:0, group-title="vMUSIC",CLUBLAND 4 LIFE
+#EXTINF:0, group-title="vMUSIC",ClubLand 4LIFE
 http://178.193.147.159:9981/stream/channelid/1?ticket=9BFC3DC7D5CEA86F9FE843E14AB3D54142D729E6
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://oona.tv/assets/img/channels/homeandliving.png" group-title="LIFESTYLE",HOME & LIVING
