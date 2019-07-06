@@ -105,13 +105,13 @@ rtmp://119.235.249.58:1935/tahfidztv/live
 #EXTINF:0 tvg-logo="http://ahsan.tv/wp-content/uploads/2017/08/cropped-WhatsApp-Image-2017-08-08-at-11.16.14-1.jpeg" group-title="STASIUNTV",AHSAN TV
 rtmp://119.82.224.75:1935/live/ahsantv
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/insan_id_tv.png" group-title="STASIUNTV",INSAN TV
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ii/insan_id_tv.png" group-title="STASIUNTV",INSAN TV
 http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/05/Rodja-TV.jpg" group-title="STASIUNTV",RODJA TV
 http://rr2.dens.tv/s/s14/index1.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png" group-title="STASIUNTV",TV9 NUSANTARA
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png" group-title="STASIUNTV",TV9 NUSANTARA
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-NU-Channel-Logo-alpha-70x90px.png" group-title="STASIUNTV",NU CHANNEL
@@ -147,7 +147,7 @@ https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.co
 #EXTINF:0 tvg-logo="https://images.useetv.com/logo_fight_big1.png?v=2.0.0.11" group-title="OLAHRAGA",FIGHT SPORTS
 http://45.126.83.51/uq2663/h/h05/index2.m3u8
 
-#EXTINF:-1 logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SPS/SPE_290x170.png" group-title="OLAHRAGA",FOX SPORTS 506HD
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/220px-Fox_Sports_logo1.svg.png" group-title="OLAHRAGA",FOX SPORTS 506HD
 http://45.58.62.92:8080
 
 #EXTINF:0 group-title="OLAHRAGA",F51 SPORTS
@@ -213,7 +213,7 @@ http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
 #EXTINF:0, group-title="vMUSIC",FoxMix Musica
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:0, group-title="vMUSIC",ClubLand 4LIFE
+#EXTINF:0, group-title="vMUSIC",CLUBLAND
 http://178.193.147.159:9981/stream/channelid/1?ticket=9BFC3DC7D5CEA86F9FE843E14AB3D54142D729E6
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://oona.tv/assets/img/channels/homeandliving.png" group-title="LIFESTYLE",HOME & LIVING
@@ -273,7 +273,7 @@ http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/
 #EXTINF:0 tvg-logo="https://www.dens.tv/images/channel-logo/16.jpg" group-title="KNOWLEDGE",CGTN DOCUMENTARY
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#EXTINF:0 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/06/Discovery-Channel.jpg" group-title="KNOWLEDGE",DISCOVERY
+#EXTINF:0 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/06/Discovery-Channel.jpg" group-title="KNOWLEDGE",DISCOVERY HD
 http://80.80.160.168/live/8/2500000/live.m3u8
 
 #EXTINF:-1 logo="http://tv.dekagon.id/logo/discovery_global_us.png" tvg-id="75ddf7f494fce3f70baa15f9b0f31d3d"" group-title="KNOWLEDGE",DISCOVERY CHANNEL
@@ -282,10 +282,10 @@ http://203.153.218.26:9981/stream/channelid/1962401141?ticket=29E672E1C8545FA945
 #EXTINF:0 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2019/02/ANIMAL-PLANET-New-Logo-2019.jpg" group-title="KNOWLEDGE",ANIMAL PLANET
 http://80.80.160.168/live/1/live.m3u8
 
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/nat_geo_people_asia.png" tvg-id="31392caa0cf1109c49a675d48b70fedf" group-title="KNOWLEDGE",NAT GEO People
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/nat_geo_people_asia.png" tvg-id="31392caa0cf1109c49a675d48b70fedf" group-title="KNOWLEDGE",NAT GEO PEOPLE
 http://203.153.218.26:9981/stream/channelid/707541297?ticket=B43B8ED27A5A69A2EDEF706DB73C2A8BDDD5095B&profile=pass
 
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/nat_geo_wild_us.png" tvg-id="6d7217574bc1970e8b152657fb354b7b" group-title="KNOWLEDGE",NAT GEO Wild
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/nat_geo_wild_us.png" tvg-id="6d7217574bc1970e8b152657fb354b7b" group-title="KNOWLEDGE",NAT GEO WILD
 http://203.153.218.26:9981/stream/channelid/1461154413?ticket=470997BD0AA45FCC91573E9E6608416A03977FF6&profile=pass
 
 #EXTINF:-1 logo="http://tv.dekagon.id/logo/history_us.png" tvg-id="fbd303b30ae4cb8e3ad9b70dc26c5b01"" group-title="KNOWLEDGE",HISTORY
@@ -294,7 +294,7 @@ http://203.153.218.26:9981/stream/channelid/855888891?ticket=75B240529141E86B871
 #EXTINF:0 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/06/DAvinci-Learning.jpg" group-title="KNOWLEDGE",DA VINCI LEARNING
 http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8
 
-#EXTINF:0 tvg-logo="http://acrotv.com/images/broad/20181001120904357.jpeg" group-title="MOVIES",HBO HOME
+#EXTINF:0 tvg-logo="http://acrotv.com/images/broad/20181001120904357.jpeg" group-title="MOVIES",HBO HOME |1080p
 http://109.248.236.41:4433/udp/238.1.1.71:1234
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/200px-HBO_logo.svg.png" group-title="MOVIES",HBO
