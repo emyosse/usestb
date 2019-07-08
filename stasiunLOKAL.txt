@@ -47,6 +47,9 @@ http://id2.indostreamingtv.com/live/tv111/index.m3u8
 http://202.80.222.171/000001/2/ch00000090990000001716/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 http://45.126.83.51/qwr9ew/s/s12/01.m3u8
 
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/update_june_mncsport.jpg" group-title="iOLAHRAGA",MNC SPORTS
+https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/100px-MNCTV_logo_2015.svg.png" group-title="STASIUNTV",MNCTV
 http://202.80.222.171/000001/2/ch14041511111714365733/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 http://id2.indostreamingtv.com/live/event/index.m3u8
@@ -162,33 +165,16 @@ http://rr.dens.tv/h/h40/S4/mnf.m3u8
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-SF--WlsZW-s/XIWrQuZ0AUI/AAAAAAAAndo/SmJwjLdjPTEFj5oAKC3bpPS0jaJCy3UWgCLcBGAs/s1600/super-soccer-tv-channel-logo.png" group-title="iOLAHRAGA",SUPER SOCCER TV
 http://210.210.155.35/uq2663/h/h20/index1.m3u8
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/update_june_mncsport.jpg" group-title="iOLAHRAGA",MNC SPORTS
-https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3b/Automoto_TV_Logo_2015.png" group-title="iOLAHRAGA",100% Auto Moto TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/0560cd3757ba28d0525e524fe0d98c1b95721c5ecf5fda464eba3084eeed7f36.png" group-title="iOLAHRAGA",RED BULL TV |FHD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #EXTINF:0 tvg-logo="https://images.useetv.com/logo_fight_big1.png?v=2.0.0.11" group-title="iOLAHRAGA",FIGHT SPORTS
 http://45.126.83.51/uq2663/h/h05/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/572618756170317824/T062e0aZ_400x400.png" group-title="iOLAHRAGA",FOX SPORTS 506 HD
 http://45.58.62.92:8080
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/0560cd3757ba28d0525e524fe0d98c1b95721c5ecf5fda464eba3084eeed7f36.png" group-title="iOLAHRAGA",RED BULL TV FHD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3b/Automoto_TV_Logo_2015.png" group-title="iOLAHRAGA",100% Auto Moto TV
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="hhttps://i.imgur.com/NU0hm5b.png?1" group-title="iOLAHRAGA",F51 SPORTS
-http://23.237.22.82:8086/udp/127.0.0.1:56046
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bc2KyDG.png?1" group-title="iOLAHRAGA",F52 SPORTS
-http://23.237.22.82:8086/udp/127.0.0.1:56047
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/170px-ELEVEN_SPORTS.png" group-title="iOLAHRAGA",11 1HD Sports 
-http://61.58.60.230:9319/live/75.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/170px-ELEVEN_SPORTS.png" group-title="iOLAHRAGA",11 2HD Sports 
-http://61.58.60.230:9319/live/102.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports1.ae.png"  group-title="iOLAHRAGA",ADSPORT 1
-https://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?st=P9H1mUdptRfQ99toISpmTg&e=1495397980
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png" group-title="iOLAHRAGA",ALLSPORT
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
@@ -320,10 +306,13 @@ http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklis
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 #EXTINF:0 tvg-logo="" group-title="iBERITA",ET Now
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
-
-
-
-
 #EXTINF:0 tvg-logo="" group-title="iBERITA",5 News Telecinco
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-logo="https://i.imgur.com/iFzRQ1A.png?1" group-title="iTRIALS",Sony Ten 1
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/23924
+#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-logo="https://i.imgur.com/PXSjkjt.jpg?1" group-title="iTRIALS",Sony Ten 2
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/23923
+#EXTINF:-1 tvg-id="SonyTEN3.in" tvg-logo="https://i.imgur.com/k1EgfnS.jpg?1" group-title="iTRIALS",Sony Ten 3
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/23922
 
