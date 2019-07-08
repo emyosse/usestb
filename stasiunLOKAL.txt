@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a-/AN66SAzFOKN3iHy_31hOjAyiyHQCtRLoCIPY5pQ_9Q=s900-mo-c-c0xffffffff-rj-k-no",emyosse125
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a-/AN66SAzFOKN3iHy_31hOjAyiyHQCtRLoCIPY5pQ_9Q=s900-mo-c-c0xffffffff-rj-k-no",eDOLCOI.125CH
 http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8?EDSONSOUSALIST
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/The_Indonesia_Channel_Logo.jpg/190px-The_Indonesia_Channel_Logo.jpg" group-title="STASIUNTV",THE INDONESIA CHANNEL
@@ -48,18 +48,18 @@ http://202.80.222.171/000001/2/ch00000090990000001716/1001.m3u8?virtualDomain=00
 http://45.126.83.51/qwr9ew/s/s12/01.m3u8
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/update_june_mncsport.jpg" group-title="iOLAHRAGA",MNC SPORTS
-https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
+https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/100px-MNCTV_logo_2015.svg.png" group-title="STASIUNTV",MNCTV
 http://202.80.222.171/000001/2/ch14041511111714365733/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 http://id2.indostreamingtv.com/live/event/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/100px-INews.png" group-title="iBERITA,INEWS
-http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
-http://edge.okezone.com/live/inewsokezone.com.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-static.metube.id//avatars/channels/sEP6M5OVxi4OrgeXZNUd.png" group-title="iBERITA",MNC NEWS
+http://202.80.222.130/000001/2/ch14041511564438196910/index.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-static.metube.id//avatars/channels/sEP6M5OVxi4OrgeXZNUd.png"  group-title="iBERITA",MNC NEWS
-http://202.80.222.130/000001/2/ch14041511564438196910/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/100px-INews.png" group-title="iBERITA,INEWS
+http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
+http://edge.okezone.com/live/inewsokezone.com.m3u8
 
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_tvri_big1.png" group-title="STASIUNTV",TVRI
 http://202.80.222.171/000001/2/ch14041511560872104862/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
