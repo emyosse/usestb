@@ -227,9 +227,9 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/MBC_Bollywood_logo.jpeg/250px-MBC_Bollywood_logo.jpeg" group-title="iMOVIES",MBC BOLLYWOOD
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="iMUSIK",Boogle Bollywood
+#EXTINF:-1 tvg-id="" tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png" group-title="iMUSIK",BOOGLE Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/Hungama_TV_logo.png" group-title="iMUSIC",DIL SE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/Hungama_TV_logo.png" group-title="iMUSIK",DIL SE
 https://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s212875q.png" group-title="iMUSIK",Aghani
 https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8
