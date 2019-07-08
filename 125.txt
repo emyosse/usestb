@@ -1,0 +1,295 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ekatalog.co.id/adminV2/images/produk/logotvOne.jpg" group-title="",emyosse
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8?EDSONSOUSALIST
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H47UMni.jpg?1" group-title="",The Indonesia Channel
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eU0ivY1.jpg?2" group-title="",Sinema Indonesia
+http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8?Sinema-Indonesia
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/ZUX2aQG.jpg?1" group-title="5-Movies",Hollywood Movies
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8?-HM1
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/ZUX2aQG.jpg?1" group-title="5-Movies",Movies Series
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8?-HM2
+#EXTINF:-1 tvg-id="RetroTV.us" tvg-logo="https://i.imgur.com/UCg6vFq.jpg?1" group-title="5-Movies",Retro TV
+http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ccm.id" tvg-logo="https://i.imgur.com/Nm60d2s.jpg" group-title="5-Movies",Celestial Classic Movies
+http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
+#EXTINF:-1 tvg-id="59186" tvg-logo="https://i.imgur.com/gjHGgEE.jpg" group-title="5-Movies",Paramount Network
+http://espn.tmedia.me/cache/spikeus.m3u8?Paramount-Network
+#EXTINF:-1 tvg-id="StarMovies.sa" tvg-logo="https://i.imgur.com/32rrn3W.jpg?1" group-title="5-Movies",Star Movies [AR]
+http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8?Star-Movies
+#EXTINF:-1 tvg-id="StarWorld.sa" tvg-logo="https://i.imgur.com/p3oLjch.jpg" group-title="5-Movies",Star World [AR]
+http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8?Star-World
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RYkFkCQ.jpg" group-title="5-Movies",TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/xZnbXMB.jpg?2" group-title="5-Movies",Showtime HD
+http://80.80.160.168/live/7/live.m3u8?Showtime-HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KuMaSAP.jpg?1" group-title="5-Movies",SBS
+http://210.210.155.35/qwr9ew/s/s42/01.m3u8?SBS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5GsQEUC.jpg" group-title="5-Movies",Fox Crime [TH]
+http://iliketot.dyndns.tv/5028f7ff1d1b4d5f8189690233364737.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yz7o7Vv.png" group-title="5-Movies",Fox Life [TH]
+http://iliketot.dyndns.tv/65f7358b813048a0898f5677e1793cf9.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA=
+#EXTINF:-1 tvg-id="TeleNovelas.mx" tvg-logo="https://i.imgur.com/wlTdrOS.jpg?1" group-title="6-Entertainment",Telenovela TV
+http://210.210.155.35/x6bnqe/s/s81/S4/mnf.m3u8?Telenovela-TV
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://aghaniaghani.com/images/logo.png" group-title="vMUSIC",Aghani Aghani TV
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GheVn47.png" group-title="6-Entertainment",Home & Living
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8rKH9g3.jpg?1" group-title="5-Movies",First Movies |J'go
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+
+#EXTINF:-1 tvg-id="AXN.id" tvg-logo="https://i.imgur.com/KcDXOqV.jpg?1" group-title="5-Movies",AXN [ID]
+http://203.153.218.26:9981/stream/channelid/2032967620?ticket=A5619860B84CB903D4540BB9203120F71F678C5D&profile=pass?channelby.kevinparamex/AXN
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/GPtpRWM.png?1" group-title="5-Movies",Blue Ant Entertaiment
+http://210.210.155.35/dr9445/h/h16/02.m3u8?Blue-Ant-Entertaiment
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/oO0kv8z.png?1" group-title="5-Movies",Blue Ant Extreme
+http://45.126.83.51/dr9445/h/h15/01.m3u8?Blue-Ant-Extreme
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/F9iBfpV.jpg?1" group-title="6-Entertainment",K-Drama [ID]
+http://210.210.155.35/qwr9ew/s/s42/01.m3u8?K-Drama
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/XqrMzAo.jpg?1" group-title="6-Entertainment",Zee Bioskop
+http://rr2.dens.tv/s/s32/01.m3u8?Zee-Bioskop
+#EXTINF:-1 tvg-id="HITS.id" tvg-logo="https://i.imgur.com/wG5u5EX.jpg?1" group-title="5-Movies",Hits [ID]
+http://45.126.83.51/uq2663/h/h37/01.m3u8?Hits
+#EXTINF:-1 tvg-id="KIX.id" tvg-logo="https://i.imgur.com/Ia1i2Hk.jpg?1" group-title="5-Movies",KIX [ID]
+http://210.210.155.35/uq2663/h/h07/index.m3u8?KIX
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/4U2pK9m.jpg?1" group-title="5-Movies",Cinema World [ID]
+http://210.210.155.35/uq2663/h/h04/index.m3u8?Cinema-World
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/vr1yRyl.jpg?2" group-title="5-Movies",My Cinema [ID]
+http://210.210.155.35/x6bnqe/s/s31/index2.m3u8?My-Cinema
+
+#EXTINF:-1 tvg-id="FOX.id" tvg-logo="https://i.imgur.com/QjQcOqw.jpg?1" group-title="5-Movies",Fox [ID]
+http://203.153.218.26:9981/stream/channelid/321155929?ticket=429643142E288BD2EA2C04DA0D5C9DB81A60A954&profile=pass
+#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-logo="https://i.imgur.com/3aGCVu8.png?1" group-title="5-Movies",Fox Action Movies [ID]
+http://203.153.218.26:9981/stream/channelid/1764566305?ticket=90D65480A1F3D9EEFD3D231667D04A91DBF61631&profile=pass
+#EXTINF:-1 tvg-id="FOXFamilyMovies.id" tvg-logo="https://i.imgur.com/FZW4aRX.png" group-title="5-Movies",Fox Family Movies [ID]
+http://203.153.218.26:9981/stream/channelid/750664492?ticket=8C4723BBAF64507623723C80FB878F84E003F868&profile=pass?channelby.kevinparamex/Fox-Family-Movies
+#EXTINF:-1 tvg-id="FOXMovies.id" tvg-logo="https://i.imgur.com/ssmJGYc.png" group-title="5-Movies",Fox Movies [ID]
+http://203.153.218.26:9981/stream/channelid/537366571?ticket=D7CB9BF7BBE3C67B3ACA0559B54D1FCD9B370969&profile=pass?channelby.kevinparamex/rizkizakaria/Fox-Movies
+#EXTINF:-1 tvg-id="cinemax.id" tvg-logo="https://i.imgur.com/lU4Cej6.jpg?1" group-title="5-Movies",Cinemax [ID]
+http://203.153.218.26:9981/stream/channelid/51542457?channelby.kevinparamex/rizkizakaria/Cinemax
+#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-logo="https://i.imgur.com/ahqDngL.jpg?1" group-title="5-Movies",Celestial Movies [ID]
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8?Celestial-Movies
+#EXTINF:-1 tvg-id="Thrill.id" tvg-logo="https://i.imgur.com/iUI2fjv.png?1" group-title="5-Movies",Thrilll [ID]
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8?Thrill
+#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.imgur.com/eoQ4mXv.jpg?1" group-title="5-Movies",HBO HD [ID]
+http://203.153.218.26:9981/stream/channelid/329070532?ticket=C216910D406C7AC587B70A9E00D0737000DA10E3&profile=pass
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-logo="https://i.imgur.com/VoGcCif.jpg" group-title="5-Movies",HBO Family [ID]
+http://203.153.218.26:9981/stream/channelid/960201661?ticket=DD1E8ECAA5C1D6F5BCC7A5191D3B85D10DC31573&profile=pass
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-logo="https://i.imgur.com/UtUkknK.png?1" group-title="5-Movies",HBO Hits [ID]
+http://203.153.218.26:9981/stream/channelid/1742170657?ticket=7EC3411A5CBA4B69D8B2C473FD85D46521DDC656&profile=pass
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-logo="https://i.imgur.com/WblZ6sv.jpg" group-title="5-Movies",HBO Signature [ID]
+http://203.153.218.26:9981/stream/channelid/2140740959?ticket=E937CF24C15EE29C87449013B14B459D142D3081&profile=pass
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.abiosgaming.com/competitors/ZhanQi-TV.png" group-title="24/7 MOVIES",ZhanQiTV
+http://alhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s212875q.png" group-title="",Aghani Aghani Music
+https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="",m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/06gWmcm.gif?1" group-title="Lifestyle",Fashion TV
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8?Fashion-TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist.m3u8?Fashion-TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ARQ4Acv.jpg" group-title="Lifestyle",HD Fashion Lifestyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8?HD-Fashion
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/06gWmcm.gif?1" group-title="Lifestyle",Fashion TV Midnight
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8?Fashion-TV-Midnight
+
+
+#EXTINF:0,((-DANGDUT-))
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+
+#EXTINF:0,- Retr0
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
+
+
+#EXTINF:0 group-title="Bollywood",Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:0 group-title="Bollywood",Tehlka
+http://195.181.169.151:8080/TEHLKAENT/PUN/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Bollywood",Dil Se
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+#EXTINF:0 group-title="Bollywood",SAKKAT
+http://linear03hun-lh.akamaihd.net/i/sakkat_1@665240/master.m3u8
+#EXTINF:0 group-title="Bollywood",DHAMAAL [720p]
+http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/index_2128_av-p.m3u8
+http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/master.m3u8
+#EXTINF:0 group-title="Bollywood",Nazrana
+http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
+#EXTINF:0 group-title="Bollywood",Kadak Hits
+http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
+#EXTINF:0 group-title="Bollywood",PUNJABI TADKA
+http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
+#EXTINF:0 group-title="Bollywood",5aab MUSIC
+http://195.181.169.151:8080/5aabtv_music_pun/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Bollywood",Aathavan Music
+http://81.24.198.44/A-MI/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="Bollywood",Aathavan Classic
+http://81.24.198.44/A-HI/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="Bollywood",Akaram
+http://akaram.zecast.net/akaram-live/akaramnew2/index.m3u8
+#EXTINF:0 group-title="Bollywood",Akaram Mix TV
+http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
+http://akaram.zecast.net/akaram-live/akarammix1/index.m3u8
+#EXTINF:0 group-title="Bollywood",Cine Voice
+http://lzyr7zo8dvw2-hls-live.wmncdn.net/1164/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/tracks-v1a1/mono.m3u8
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+#EXTINF:0 group-title="Bollywood",Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:0 group-title="Bollywood",Jaffna TV
+http://59d39900ebfb8.streamlock.net:1935/Jaffnatv/Jaffnatv/playlist.m3u8
+#EXTINF:0 group-title="Bollywood",Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:0 group-title="Bollywood",Jhanjar HD
+http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
+
+#EXTINF:0 group-title="Bollywood",PBN Music
+http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
+http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="Bollywood",9X Tashan
+http://195.181.169.151:8080/9xTashan-punjabi/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Bollywood",Aarya TV
+http://150.242.21.2/aaryaa.m3u8
+
+#EXTINF:0, group-title="OLAHRAGA",ATN Alpha ETC Punjabi 
+http://195.181.169.151:8080/AlphaETCPunjabi-punjabi/tracks-v1a1/mono.m3u8
+#EXTINF:0, group-title="OLAHRAGA",TV Punjab SPORTS
+http://cdn.samtv.ca/tvpunjab/index.m3u8
+
+
+#EXTINF:0 group-title="MOVIES",ZEE BIOSKOP
+http://210.210.155.35/session/031c454a-7d85-11e8-820c-c81f66f89318/qwr9ew/s/s32/index1.m3u8
+http://210.210.155.35/session/5d6f2928-d6cb-11e8-8e98-c81f66f89318/qwr9ew/s/s32/index2.m3u8
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
+http://210.210.155.35/qwr9ew/s/s32/index.m3u8
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8
+#EXTINF:0 group-title="MOVIES",Toronto 360 TV
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+#EXTINF:0 group-title="MOVIES",ETV Telugu
+http://195.181.169.151:8080/ETVHD/TELU/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="MOVIES",PTC Punjabi Gold
+http://195.181.169.151:8080/ptcpunjabigold/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="MOVIES",Punjabi Zindabad
+http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 group-title="Bollywood",Punjab TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:0 group-title="Bollywood",Sabrang TV
+http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
+#EXTINF:0 group-title="Bollywood",Life Punjabi (Opt-1)
+http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+#EXTINF:0 group-title="Bollywood",Kanshi TV
+http://live.kanshitv.co.uk/mobile/kanshitvkey_high/index.m3u8
+#EXTINF:0 group-title="Bollywood",Urdu TV Toronto
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
+#EXTINF:0 group-title="Bollywood",Raonuk Punjab Dee
+http://195.181.169.151:8080/raonuk_pun/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Bollywood",TV 16 Toronto
+http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+#EXTINF:0 group-title="Bollywood",BOSS TV [360p]
+http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/index.m3u8
+#EXTINF:0,Aljazeera News
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:0,CNBC World
+http://161.0.157.9/PLTV/88888888/224/3221227005/index.m3u8
+#EXTINF:0,width-300 - imgsize-18677,resizemode-4/switch-on-et-now-to-rise-with-india.jpg" group-title="Bollywood",ET Now
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+
+#EXTINF:0,CBN US
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:0,Mirror Now (Opt-2)
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:0,Harvest TV
+http://7mbd4ogkr3gx-hls-live.wmncdn.net/886/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/tracks-v1a1/index.m3u8
+
+#=============
+#EXTINF:0,ATVHD ARAB
+http://85.132.81.184:8080/atv/index.m3u8
+
+#EXTINF:0,ANIPLUS
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:0,Baby TV
+http://livecdnh1.tvanywhere.ae:80/hls/baby/06.m3u8
+
+#EXTINF:0,AD SPORT 1
+https://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?st=P9H1mUdptRfQ99toISpmTg&e=1495397980
+#EXTINF:0,ALL SPORT
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,beINSport 1HD
+http://eir4.pikaflik.co.uk:80/live?channelId=178&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
+#EXTINF:-1,beINSport 2HD
+http://eir4.pikaflik.co.uk:80/live?channelId=179&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
+#EXTINF:-1,beINSport 3HD
+http://eir4.pikaflik.co.uk:80/live?channelId=180&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
+#EXTINF:-1,beINSport 11HD
+http://eir4.pikaflik.co.uk:80/live?channelId=188&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
+#EXTINF:-1,Sky Sports Main
+http://eir5.pikaflik.co.uk:80/live?channelId=129&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
+
+#EXTINF:0,beINSport 1 HD
+http://eir4.pikaflik.co.uk:80/live.ts?channelId=178&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,beINSport 10 HD
+http://eir4.pikaflik.co.uk:80/live.ts?channelId=187&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,beINSport 12 HD
+http://eir4.pikaflik.co.uk:80/live.ts?channelId=189&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,beINSport 2 HD
+http://eir4.pikaflik.co.uk:80/live.ts?channelId=179&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,beINSport 3 HD
+http://eir4.pikaflik.co.uk:80/live.ts?channelId=180&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,beINSport 4 HD
+http://eir4.pikaflik.co.uk:80/live.ts?channelId=181&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,beINSport 5 HD
+http://eir4.pikaflik.co.uk:80/live.ts?channelId=182&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,beINSport 6 HD
+http://eir4.pikaflik.co.uk:80/live.ts?channelId=183&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,beINSport 7 HD
+http://eir4.pikaflik.co.uk:80/live.ts?channelId=184&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,beINSport 8 HD
+http://eir4.pikaflik.co.uk:80/live.ts?channelId=185&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,beINSport 9 HD
+http://eir4.pikaflik.co.uk:80/live.ts?channelId=186&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,24/7 American Dad |cartoon
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=418&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,24/7 Ben and Holly
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=420&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,24/7 Benidorm
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=432&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,24/7 Big Bang
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=419&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,24/7 Blaze And The Monster Machines
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=430&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,24/7 Bobs Burgers
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=421&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,24/7 Disney Movies
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=422&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,24/7 Doc Mcstuffins
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=423&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,24/7 Friends
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=425&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,24/7 In The Night Garden
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=426&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,24/7 Laural And Hardy
+http://62.210.27.219:80/live.ts?channelId=532&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,24/7 Only Fools And Horses
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=427&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,24/7 The Inbetweeners
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=429&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,4seven
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=18&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,5 USA
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=21&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,5STAR
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=22&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+
+
