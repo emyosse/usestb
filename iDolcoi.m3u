@@ -1,0 +1,186 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s212875q.png" group-title="",Aghani Aghani
+https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8
+#EXTINF:0,emyosse
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8?EDSONSOUSALIST
+
+#EXTINF:0,((-DANGDUT-))
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+#EXTINF:0,- m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
+#EXTINF:0,- Retr0
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
+
+
+#EXTINF:0 group-title="Bollywood",Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:0 group-title="Bollywood",Tehlka
+http://195.181.169.151:8080/TEHLKAENT/PUN/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Bollywood",Dil Se
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+#EXTINF:0 group-title="Bollywood",SAKKAT
+http://linear03hun-lh.akamaihd.net/i/sakkat_1@665240/master.m3u8
+#EXTINF:0 group-title="Bollywood",DHAMAAL [720p]
+http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/index_2128_av-p.m3u8
+http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/master.m3u8
+#EXTINF:0 group-title="Bollywood",Nazrana
+http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
+#EXTINF:0 group-title="Bollywood",Kadak Hits
+http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
+#EXTINF:0 group-title="Bollywood",PUNJABI TADKA
+http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
+#EXTINF:0 group-title="Bollywood",5aab MUSIC
+http://195.181.169.151:8080/5aabtv_music_pun/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Bollywood",Aathavan Music
+http://81.24.198.44/A-MI/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="Bollywood",Aathavan Classic
+http://81.24.198.44/A-HI/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="Bollywood",Akaram
+http://akaram.zecast.net/akaram-live/akaramnew2/index.m3u8
+#EXTINF:0 group-title="Bollywood",Akaram Mix TV
+http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
+http://akaram.zecast.net/akaram-live/akarammix1/index.m3u8
+#EXTINF:0 group-title="Bollywood",Cine Voice
+http://lzyr7zo8dvw2-hls-live.wmncdn.net/1164/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/tracks-v1a1/mono.m3u8
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+#EXTINF:0 group-title="Bollywood",Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:0 group-title="Bollywood",Jaffna TV
+http://59d39900ebfb8.streamlock.net:1935/Jaffnatv/Jaffnatv/playlist.m3u8
+#EXTINF:0 group-title="Bollywood",Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:0 group-title="Bollywood",Jhanjar HD
+http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
+
+#EXTINF:0 group-title="Bollywood",PBN Music
+http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
+http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="Bollywood",9X Tashan
+http://195.181.169.151:8080/9xTashan-punjabi/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Bollywood",Aarya TV
+http://150.242.21.2/aaryaa.m3u8
+
+#EXTINF:0, group-title="OLAHRAGA",ATN Alpha ETC Punjabi 
+http://195.181.169.151:8080/AlphaETCPunjabi-punjabi/tracks-v1a1/mono.m3u8
+#EXTINF:0, group-title="OLAHRAGA",TV Punjab SPORTS
+http://cdn.samtv.ca/tvpunjab/index.m3u8
+
+
+#EXTINF:0 group-title="MOVIES",ZEE BIOSKOP
+http://210.210.155.35/session/031c454a-7d85-11e8-820c-c81f66f89318/qwr9ew/s/s32/index1.m3u8
+http://210.210.155.35/session/5d6f2928-d6cb-11e8-8e98-c81f66f89318/qwr9ew/s/s32/index2.m3u8
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
+http://210.210.155.35/qwr9ew/s/s32/index.m3u8
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8
+#EXTINF:0 group-title="MOVIES",Toronto 360 TV
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+#EXTINF:0 group-title="MOVIES",ETV Telugu
+http://195.181.169.151:8080/ETVHD/TELU/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="MOVIES",PTC Punjabi Gold
+http://195.181.169.151:8080/ptcpunjabigold/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="MOVIES",Punjabi Zindabad
+http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 group-title="Bollywood",Punjab TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:0 group-title="Bollywood",Sabrang TV
+http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
+#EXTINF:0 group-title="Bollywood",Life Punjabi (Opt-1)
+http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+#EXTINF:0 group-title="Bollywood",Kanshi TV
+http://live.kanshitv.co.uk/mobile/kanshitvkey_high/index.m3u8
+#EXTINF:0 group-title="Bollywood",Urdu TV Toronto
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
+#EXTINF:0 group-title="Bollywood",Raonuk Punjab Dee
+http://195.181.169.151:8080/raonuk_pun/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Bollywood",TV 16 Toronto
+http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+#EXTINF:0 group-title="Bollywood",BOSS TV [360p]
+http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/index.m3u8
+#EXTINF:0,Aljazeera News
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:0,CNBC World
+http://161.0.157.9/PLTV/88888888/224/3221227005/index.m3u8
+#EXTINF:0,width-300 - imgsize-18677,resizemode-4/switch-on-et-now-to-rise-with-india.jpg" group-title="Bollywood",ET Now
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+
+#EXTINF:0,CBN US
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:0,Mirror Now (Opt-2)
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:0,Harvest TV
+http://7mbd4ogkr3gx-hls-live.wmncdn.net/886/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/tracks-v1a1/index.m3u8
+
+#=============
+#EXTINF:0,ATVHD ARAB
+http://85.132.81.184:8080/atv/index.m3u8
+
+#EXTINF:0,ANIPLUS
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:0,Baby TV
+http://livecdnh1.tvanywhere.ae:80/hls/baby/06.m3u8
+
+#EXTINF:0,AD SPORT 1
+https://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?st=P9H1mUdptRfQ99toISpmTg&e=1495397980
+#EXTINF:0,ALL SPORT
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0,24/7 American Dad |cartoon
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=418&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,24/7 Ben and Holly
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=420&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,24/7 Benidorm
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=432&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,24/7 Big Bang
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=419&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,24/7 Blaze And The Monster Machines
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=430&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,24/7 Bobs Burgers
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=421&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,24/7 Disney Movies
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=422&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,24/7 Doc Mcstuffins
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=423&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,24/7 Friends
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=425&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,24/7 In The Night Garden
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=426&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,24/7 Laural And Hardy
+http://62.210.27.219:80/live.ts?channelId=532&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,24/7 Only Fools And Horses
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=427&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,24/7 The Inbetweeners
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=429&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,4seven
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=18&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,5 USA
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=21&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,5STAR
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=22&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+
+#EXTINF:0,beINSport 1 HD
+http://eir4.pikaflik.co.uk:80/live.ts?channelId=178&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,beINSport 10 HD
+http://eir4.pikaflik.co.uk:80/live.ts?channelId=187&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,beINSport 12 HD
+http://eir4.pikaflik.co.uk:80/live.ts?channelId=189&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,beINSport 2 HD
+http://eir4.pikaflik.co.uk:80/live.ts?channelId=179&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,beINSport 3 HD
+http://eir4.pikaflik.co.uk:80/live.ts?channelId=180&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,beINSport 4 HD
+http://eir4.pikaflik.co.uk:80/live.ts?channelId=181&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,beINSport 5 HD
+http://eir4.pikaflik.co.uk:80/live.ts?channelId=182&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,beINSport 6 HD
+http://eir4.pikaflik.co.uk:80/live.ts?channelId=183&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,beINSport 7 HD
+http://eir4.pikaflik.co.uk:80/live.ts?channelId=184&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,beINSport 8 HD
+http://eir4.pikaflik.co.uk:80/live.ts?channelId=185&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:0,beINSport 9 HD
+http://eir4.pikaflik.co.uk:80/live.ts?channelId=186&deviceMac=00:1A:79:BE:2F:F6&uid=1615
