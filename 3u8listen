@@ -1,0 +1,64 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/a-/AAuE7mBMbte8xM3pqQGWE-zwWEHcn7LhQmYOAszwxih0=s96",emyosse
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8?EDSONSOUSALIST
+
+#EXTINF:-1 tvg-id="" group-title="iMusic",m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s212875q.png" group-title="iMusik",Aghani Aghani Music
+https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.freepik.com/free-vector/movie-time-background-illustration_34401-241.jpg" group-title="24/7 iMovies", SUPERHERO Movies
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.freepik.com/free-vector/movie-time-background-illustration_34401-241.jpg" group-title="24/7 iMovies",DRIVERS Movies
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.freepik.com/free-vector/movie-time-background-illustration_34401-241.jpg" group-title="24/7 iMovies",ZhanQiTV
+http://alhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://singteltv.com.sg/_channels/pic_ch585.jpg" group-title="Chines",Celestial Clasic Movie ID
+http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5GsQEUC.jpg" group-title="iMovies",Fox Crime [TH]
+http://iliketot.dyndns.tv/5028f7ff1d1b4d5f8189690233364737.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yz7o7Vv.png" group-title="iMovies",Fox Life [TH]
+http://iliketot.dyndns.tv/65f7358b813048a0898f5677e1793cf9.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA=
+
+#EXTINF:-1 tvg-id="FOXMovies.id" tvg-logo="https://i.imgur.com/ssmJGYc.png" group-title="iMovies",Fox Movies [ID]
+http://203.153.218.26:9981/stream/channelid/537366571?ticket=D7CB9BF7BBE3C67B3ACA0559B54D1FCD9B370969&profile=pass?channelby.kevinparamex/rizkizakaria/Fox-Movies
+
+#EXTINF:-1 tvg-id="cinemax.id" tvg-logo="https://i.imgur.com/lU4Cej6.jpg?1" group-title="iMovies",Cinemax [ID]
+http://203.153.218.26:9981/stream/channelid/51542457?channelby.kevinparamex/rizkizakaria/Cinemax
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/06gWmcm.gif?1" group-title="iLifestyle",Fashion TV
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8?Fashion-TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist.m3u8?Fashion-TV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ARQ4Acv.jpg" group-title="iLifestyle",HD Fashion Lifestyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8?HD-Fashion
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/06gWmcm.gif?1" group-title="iLifestyle",Fashion TV Midnight
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8?Fashion-TV-Midnight
+
+#EXTINF:0,DISCOVERY
+http://80.80.160.168/live/8/2500000/live.m3u8
+
+#EXTINF:0,DISCOVERY SCIENCE HD
+http://80.80.160.168/live/9/2500000/live.m3u8
+
+#EXTINF:-1,Sky Sports Main |agen
+http://eir5.pikaflik.co.uk:80/live?channelId=129&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
+
+#EXTINF:0,24/7 American Dad |cartoon
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=418&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+
+#EXTINF:0,Disc.Turbo
+http://eir1.pikaflik.co.uk:80/live.ts?channelId=35&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+
+
+
+
+
