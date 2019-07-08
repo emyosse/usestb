@@ -130,7 +130,7 @@ http://rr2.dens.tv/s/s14/index1.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/8o71OfO.png" group-title="STASIUNTV",TV9 NUSANTARA
 http://119.235.249.60:1935/tv9/live/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
-http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
+
 
 #EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-NU-Channel-Logo-alpha-70x90px.png" group-title="STASIUNTV",NU CHANNEL
 http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8
