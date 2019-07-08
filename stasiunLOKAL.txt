@@ -165,8 +165,6 @@ http://rr.dens.tv/h/h40/S4/mnf.m3u8
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-SF--WlsZW-s/XIWrQuZ0AUI/AAAAAAAAndo/SmJwjLdjPTEFj5oAKC3bpPS0jaJCy3UWgCLcBGAs/s1600/super-soccer-tv-channel-logo.png" group-title="iOLAHRAGA",SUPER SOCCER TV
 http://210.210.155.35/uq2663/h/h20/index1.m3u8
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3b/Automoto_TV_Logo_2015.png" group-title="iOLAHRAGA",100% Auto Moto TV
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/0560cd3757ba28d0525e524fe0d98c1b95721c5ecf5fda464eba3084eeed7f36.png" group-title="iOLAHRAGA",RED BULL TV |FHD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
@@ -229,32 +227,26 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/MBC_Bollywood_logo.jpeg/250px-MBC_Bollywood_logo.jpeg" group-title="iMOVIES",MBC BOLLYWOOD
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s212875q.png" group-title="iMUSIK",Aghani Music
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="iMUSIK",Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/Hungama_TV_logo.png" group-title="iMUSIC",DIL SE
+https://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s212875q.png" group-title="iMUSIK",Aghani
 https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8
 #EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Zing-150x86px.png" group-title="iMUSIK",POP MUSIC
 http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
-
 #EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-150x90px.png" group-title="iMUSIK",MALEO
 http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/175px-MTV_Logo_2010.svg.png" group-title="iMUSIK",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/200px-Radio_m2o_-_Logo_2019.svg.png" group-title="iMUSIK",RADIOM2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="iMUSIK",GYANGCOI
 http://aldirect.hls.huya.com/huyalive/30765679-2533159102-10879835498654728192-3049003136-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="iBOLLYWOOD",Boogle Bollywood
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="iMUSIK",Akaram Mix TV
-http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
-http://akaram.zecast.net/akaram-live/akarammix1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="iMUSIK",,Cine Voice
-http://lzyr7zo8dvw2-hls-live.wmncdn.net/1164/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/tracks-v1a1/mono.m3u8
-http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
 
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3b/Automoto_TV_Logo_2015.png" group-title="iLIFESTYLE",100% AutoMoto.TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://oona.tv/assets/img/channels/homeandliving.png" group-title="iLIFESTYLE",HOME & LIVING
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
 
@@ -309,16 +301,16 @@ http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 #EXTINF:0 tvg-logo="" group-title="iBERITA",5 News Telecinco
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O4smWGY.png" group-title="iOLAHRAGA",Bein Sports La Liga
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O4smWGY.png" group-title="iOLAHRAGA",(trial) Bein Sports La Liga
 http://www.sansat.net:25461/6yong314/N8r3cqKaXE/14991
-#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-logo="https://i.imgur.com/iFzRQ1A.png?1" group-title="iOLAHRAGA",Sony Ten 1
+#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-logo="https://i.imgur.com/iFzRQ1A.png?1" group-title="iOLAHRAGA",(trial) Sony Ten 1
 http://www.sansat.net:25461/6yong314/N8r3cqKaXE/23924
-#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-logo="https://i.imgur.com/PXSjkjt.jpg?1" group-title="iOLAHRAGA",Sony Ten 2
+#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-logo="https://i.imgur.com/PXSjkjt.jpg?1" group-title="iOLAHRAGA",(trial) Sony Ten 2
 http://www.sansat.net:25461/6yong314/N8r3cqKaXE/23923
-#EXTINF:-1 tvg-id="SonyTEN3.in" tvg-logo="https://i.imgur.com/k1EgfnS.jpg?1" group-title="iOLAHRAGA",Sony Ten 3
+#EXTINF:-1 tvg-id="SonyTEN3.in" tvg-logo="https://i.imgur.com/k1EgfnS.jpg?1" group-title="iOLAHRAGA",(trial) Sony Ten 3
 http://www.sansat.net:25461/6yong314/N8r3cqKaXE/23922
-#EXTINF:-1 tvg-id="82541" tvg-logo="https://i.imgur.com/NU0hm5b.png?1" group-title="iOLAHRAGA",FS1
+#EXTINF:-1 tvg-id="82541" tvg-logo="https://i.imgur.com/NU0hm5b.png?1" group-title="iOLAHRAGA",(trial) FS1 SPORTS
 http://www.sansat.net:25461/6yong314/N8r3cqKaXE/23661
-#EXTINF:-1 tvg-id="33178" tvg-logo="https://i.imgur.com/bc2KyDG.png?1" group-title="iOLAHRAGA",FS2
+#EXTINF:-1 tvg-id="33178" tvg-logo="https://i.imgur.com/bc2KyDG.png?1" group-title="iOLAHRAGA",(trial) FS2 SPORTS
 http://www.sansat.net:25461/6yong314/N8r3cqKaXE/23660
 
