@@ -179,7 +179,7 @@ http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?iptvgratis?chile.m3u8
 236.10.10:1935/dgrau/dgrau/live.m3u8?AndreOid
 
-#EXTINF:0, group-title="iBOLLYWOOD",ATN Alpha ETC Punjabi 
+#EXTINF:0, group-title="iOLAHRAGA",ATN Alpha ETC Punjabi 
 http://195.181.169.151:8080/AlphaETCPunjabi-punjabi/tracks-v1a1/mono.m3u8
 #EXTINF:0, group-title="iBOLLYWOOD",TV Punjab
 http://cdn.samtv.ca/tvpunjab/index.m3u8
@@ -213,18 +213,23 @@ http://203.153.218.26:9981/stream/channelid/1474669592?ticket=C0150330F7DB0FA3E7
 
 #EXTINF:0 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2019/04/sinema-indonesia.jpg" group-title="iMOVIES",SINEMA INDONESIA
 http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
-
-#EXTINF:-1 tvg-logo="http://cinemaworld.asia/wp-content/themes/CinemaWorld/bootstrap/img/logo.png" group-title="iMOVIES",CINEMAWORD
-http://210.210.155.35/uq2663/h/h04/index2.m3u8
-
+#EXTINF:-1 tvg-id="ccm.id" tvg-logo="https://i.imgur.com/Nm60d2s.jpg" group-title="5-Movies",[MY] Celestial Classic Movies
+http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
 #EXTINF:0 tvg-logo="http://acrotv.com/images/broad/20181001120904357.jpeg" group-title="iMOVIES",HBO HOME |FHD
 http://109.248.236.41:4433/udp/238.1.1.71:1234
-
-#EXTINF:0 tvg-logo="http://acrotv.com/images/broad/20181002122548428.jpg" group-title="iMOVIES",RAI MOVIE
+#EXTINF:0 tvg-logo="http://acrotv.com/images/broad/20181002122548428.jpg" group-title="iMOVIES",[IT] RAI MOVIE
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:0 tvg-logo="http://acrotv.com/images/broad/20181002122916646.png" group-title="iMOVIES",RAI PREMIUM
+#EXTINF:0 tvg-logo="http://acrotv.com/images/broad/20181002122916646.png" group-title="iMOVIES",[IT] RAI PREMIUM
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/MBC_Bollywood_logo.jpeg/250px-MBC_Bollywood_logo.jpeg" group-title="iMOVIES",MBC BOLLYWOOD
+#EXTINF:-1 tvg-id="StarMovies.sa" tvg-logo="https://i.imgur.com/32rrn3W.jpg?1" group-title="iMOVIES",[AR] Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8?Star-Movies
+#EXTINF:-1 tvg-id="StarWorld.sa" tvg-logo="https://i.imgur.com/p3oLjch.jpg" group-title="iMOVIES",[AR] Star World
+http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8?Star-World
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RYkFkCQ.jpg" group-title="5-Movies",[US] TBD TV
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo"https://www.satlogo.com/hires/ww/wow_cinema_in.png" group-title="iMOVIES",[HI] WOW CINEMA
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1876239733
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/MBC_Bollywood_logo.jpeg/250px-MBC_Bollywood_logo.jpeg" group-title="iMOVIES",[HI] MBC BOLLYWOOD
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png" group-title="iMUSIK",BOOGLE Bollywood
@@ -268,10 +273,10 @@ https://v7.ciclano.io:1443/tvaracati/_definst_/tvaracati/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.dens.tv/images/channel-logo/16.jpg" group-title="iKNOWLEDGE",CGTN DOCUMENTARY
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/discovery_global_us.png" tvg-id="75ddf7f494fce3f70baa15f9b0f31d3d" group-title="iKNOWLEDGE",DISCOVERY CHANNEL
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/discovery_global_us.png" tvg-id="75ddf7f494fce3f70baa15f9b0f31d3d" group-title="iKNOWLEDGE",[US] DISCOVERY CHANNEL
 http://203.153.218.26:9981/stream/channelid/1962401141?ticket=29E672E1C8545FA945CE405CB6B041CC40438475&profile=pass
 
-#EXTINF:0 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/06/Discovery-Channel.jpg" group-title="iKNOWLEDGE",DISCOVERY HD
+#EXTINF:0 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/06/Discovery-Channel.jpg" group-title="iKNOWLEDGE",[US] DISCOVERY HD
 http://80.80.160.168/live/8/2500000/live.m3u8
 
 #EXTINF:0 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2019/02/ANIMAL-PLANET-New-Logo-2019.jpg" group-title="iKNOWLEDGE",ANIMAL PLANET
@@ -313,4 +318,3 @@ http://www.sansat.net:25461/6yong314/N8r3cqKaXE/23922
 http://www.sansat.net:25461/6yong314/N8r3cqKaXE/23661
 #EXTINF:-1 tvg-id="33178" tvg-logo="https://i.imgur.com/bc2KyDG.png?1" group-title="iOLAHRAGA",(trial) FS2 SPORTS
 http://www.sansat.net:25461/6yong314/N8r3cqKaXE/23660
-
