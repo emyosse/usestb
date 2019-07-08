@@ -168,34 +168,33 @@ https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.co
 #EXTINF:0 tvg-logo="https://images.useetv.com/logo_fight_big1.png?v=2.0.0.11" group-title="OLAHRAGA",FIGHT SPORTS
 http://45.126.83.51/uq2663/h/h05/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/220px-Fox_Sports_logo1.svg.png" group-title="OLAHRAGA",FOX SPORTS 506HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/572618756170317824/T062e0aZ_400x400.png" group-title="OLAHRAGA",FOX SPORTS 506 HD
 http://45.58.62.92:8080
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/0560cd3757ba28d0525e524fe0d98c1b95721c5ecf5fda464eba3084eeed7f36.png" group-title="OLAHRAGA",RED BULL TV FHD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-#EXTINF:0 group-title="OLAHRAGA",100% Auto Moto TV
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3b/Automoto_TV_Logo_2015.png" group-title="OLAHRAGA",100% Auto Moto TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ya-webdesign.com/transparent450_/fox-sports-1-png-15.png" group-title="OLAHRAGA",F51 SPORTS
+#EXTINF:-1 tvg-logo="hhttps://i.imgur.com/NU0hm5b.png?1" group-title="OLAHRAGA",F51 SPORTS
 http://23.237.22.82:8086/udp/127.0.0.1:56046
-
-#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2017/08/FS2-Logo_1040x585-607x337.jpg" group-title="OLAHRAGA",F52 SPORTS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bc2KyDG.png?1" group-title="OLAHRAGA",F52 SPORTS
 http://23.237.22.82:8086/udp/127.0.0.1:56047
 
-#EXTINF:0 group-title="OLAHRAGA"11 1HD Sports 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/170px-ELEVEN_SPORTS.png" group-title="OLAHRAGA",11 1HD Sports 
 http://61.58.60.230:9319/live/75.m3u8
-#EXTINF:0 group-title="OLAHRAGA"11 2HD Sports 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/170px-ELEVEN_SPORTS.png" group-title="OLAHRAGA",11 2HD Sports 
 http://61.58.60.230:9319/live/102.m3u8
 
-#EXTINF:0 group-title="OLAHRAGA",AD SPORT 1
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports1.ae.png"  group-title="OLAHRAGA",ADSPORT 1
 https://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?st=P9H1mUdptRfQ99toISpmTg&e=1495397980
 
-#EXTINF:0 group-title="OLAHRAGA",ALLSPORT 1
+#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png" group-title="OLAHRAGA",ALLSPORT 1
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:0 group-title="OLAHRAGA",ALLSPORT 2
+#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png" group-title="OLAHRAGA",ALLSPORT 2
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?AndreOid
 
 #EXTINF:0, group-title="iBOLLYWOOD",ATN Alpha ETC Punjabi 
@@ -287,6 +286,9 @@ http://210.210.155.35/uq2663/h/h10/index.m3u8
 #EXTINF:0 group-title="iENTERTAINMENT",Fix HD
 http://fixhd.tv:8081/fix/hd.stream/playlist.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="iENTERTAINMENT",Aracati TV
+https://v7.ciclano.io:1443/tvaracati/_definst_/tvaracati/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://www.dens.tv/images/channel-logo/16.jpg" group-title="iKNOWLEDGE",CGTN DOCUMENTARY
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
@@ -299,29 +301,31 @@ http://80.80.160.168/live/8/2500000/live.m3u8
 #EXTINF:0 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2019/02/ANIMAL-PLANET-New-Logo-2019.jpg" group-title="iKNOWLEDGE",ANIMAL PLANET
 http://80.80.160.168/live/1/live.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="iBERITA",Aljazeera News
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
-#EXTINF:0 tvg-logo="" group-title="iBERITA",Aljazeera News
-#EXTINF:0 tvg-logo="" group-title="iBERITA",CNBC World
-http://161.0.157.9/PLTV/88888888/224/3221227005/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="iBERITA",ET Now
-http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
-#EXTINF:0 tvg-logo="" group-title="iBERITA",CBN US
-http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-#EXTINF:0 tvg-logo="" group-title="iBERITA",Mirror Now
-http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
-#EXTINF:0 tvg-logo="" group-title="iBERITA",RT NEWS
-https://rt-doc.secure.footprint.net/1101-inadv-qidx-1k_v3.m3u8?stream_start_offset=14000000&stream_dvr_window=0
 #EXTINF:0 tvg-logo="" group-title="iBERITA",ABC NEWS
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-logo="" group-title="iBERITA",YTN
-http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
-#EXTINF:0 tvg-logo="" group-title="iBERITA",Aracati TV |Spanyol
-https://v7.ciclano.io:1443/tvaracati/_definst_/tvaracati/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="iBERITA",Aljazeera News
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png" group-title="iBERITA",RT NEWS
+https://rt-doc.secure.footprint.net/1101-inadv-qidx-1k_v3.m3u8?stream_start_offset=14000000&stream_dvr_window=0
+#EXTINF:0 tvg-logo="" group-title="iBERITA",CNBC World
+http://161.0.157.9/PLTV/88888888/224/3221227005/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="iBERITA",CBN US
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="iBERITA",ARIRANG Korea
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b928000_sleng.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_2ch/smil:arirang_2ch.smil/chunklist_b1728000_sleng.m3u8
-#EXTINF:0 tvg-logo="" group-title="iBERITA",5 News Telecinco |Spanyol
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
 #EXTINF:0 tvg-logo="" group-title="iBERITA",News TV KorSel
 https://tv.nknews.org/tvhls/stream.m3u8
+#EXTINF:0 tvg-logo="" group-title="iBERITA",YTN
+http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
+#EXTINF:0 tvg-logo="" group-title="iBERITA",Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:0 tvg-logo="" group-title="iBERITA",ET Now
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+
+
+
+
+#EXTINF:0 tvg-logo="" group-title="iBERITA",5 News Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+
