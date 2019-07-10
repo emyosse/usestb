@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a-/AN66SAzFOKN3iHy_31hOjAyiyHQCtRLoCIPY5pQ_9Q=s900-mo-c-c0xffffffff-rj-k-no",emyosse64+CH
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a-/AN66SAzFOKN3iHy_31hOjAyiyHQCtRLoCIPY5pQ_9Q=s900-mo-c-c0xffffffff-rj-k-no",emyosse129+CH
 http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8?EDSONSOUSALIST
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/The_Indonesia_Channel_Logo.jpg/190px-The_Indonesia_Channel_Logo.jpg" group-title="iTvD.NASIONAL",THE INDONESIA CHANNEL
@@ -124,9 +124,6 @@ http://rr2.dens.tv/s/s27/01.m3u8
 #EXTINF:0 tvg-logo="http://ahsan.tv/wp-content/uploads/2017/08/cropped-WhatsApp-Image-2017-08-08-at-11.16.14-1.jpeg" group-title="iTvD.NASIONAL",AHSAN TV
 rtmp://119.82.224.75:1935/live/ahsantv
 
-#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ii/insan_id_tv.png" group-title="iTvD.NASIONAL",INSAN TV
-http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
-
 #EXTINF:0 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/05/Rodja-TV.jpg" group-title="iTvD.NASIONAL",RODJA TV
 http://rr2.dens.tv/s/s14/index1.m3u8
 
@@ -164,7 +161,7 @@ http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/Elshinta_tv_logo.jpg/200px-Elshinta_tv_logo.jpg" group-title="iTvD.NASIONAL",ELSHINTA TV
 http://rr2.dens.tv/s/s10/01.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/23/Mayapada_TV.png/200px-Mayapada_TV.png" group-title="iTvD.NASIONAL",MY TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/23/Mayapada_TV.png/200px-Mayapada_TV.png" group-title="iTvD.NASIONAL",MyTV
 http://rr.dens.tv/h/h40/S4/mnf.m3u8
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-SF--WlsZW-s/XIWrQuZ0AUI/AAAAAAAAndo/SmJwjLdjPTEFj5oAKC3bpPS0jaJCy3UWgCLcBGAs/s1600/super-soccer-tv-channel-logo.png" group-title="iOLAHRAGA",SUPER SOCCER TV
@@ -184,11 +181,11 @@ http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 236.10.10:1935/dgrau/dgrau/live.m3u8?AndreOid
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/km7OLyO.png" group-title="iOLAHRAGA",Orange Sport HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/km7OLyO.png" group-title="iOLAHRAGA",Orange Sports HD
 http://213.151.233.20:8000/dna-6428-tv-pc/hls/4001v102.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BqwpUo3.png?1" group-title="iOLAHRAGA",BEiN Sports 6 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BqwpUo3.png?1" group-title="iOLAHRAGA",BEiNSports 6HD
 http://94.236.230.110:3333/6
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BqwpUo3.png?1" group-title="iOLAHRAGA",BEiN Sports 8 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BqwpUo3.png?1" group-title="iOLAHRAGA",BEiNSports 8HD
 http://94.236.230.110:3333/8
 #EXTINF:-1 tvg-logo="https://thegioidohoa.com/wp-content/uploads/2017/07/thiet-ke-logo-the-thao.png" group-title="iOLAHRAGA",FEED|Live Football
 http://live.bongdaf.net/hls/7f192d20496c6f374058bd49cef5018e/5c852e7ca9000kbcJWS474/24170c558237255a1c87bb9553c73fb2/j7tfrf3/index.m3u8
@@ -255,9 +252,11 @@ http://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/Hungama_TV_logo.png" group-title="iMUSIK",DIL SE
 https://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/Hungama_TV_logo.png" group-title="iMUSIK",POP HITS Bollywood
+https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s212875q.png" group-title="iMUSIK",Aghani
 https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8
-#EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Zing-150x86px.png" group-title="iMUSIK",POP MUSIC
+#EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Zing-150x86px.png" group-title="iMUSIK",POP MUSIK
 http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-150x90px.png" group-title="iMUSIK",MALEO
 http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
@@ -266,7 +265,7 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/200px-Radio_m2o_-_Logo_2019.svg.png" group-title="iMUSIK",RADIOM2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://www.one.by/images/logo.png" group-title="iMUSIK",One Music
+#EXTINF:-1 tvg-logo="http://www.one.by/images/logo.png" group-title="VARIETY.TEST-FHD",1HD
 http://rtmp.one.by:1300
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png"  group-title="iMUSIK",TOP LATINO TV
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
@@ -328,20 +327,16 @@ http://161.0.157.9/PLTV/88888888/224/3221227005/index.m3u8
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="iBERITA DUNIA",YTN
 http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
-#EXTINF:0 tvg-logo="" group-title="iBERITA DUNIA",Mirror Now
-http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 #EXTINF:0 tvg-logo="" group-title="iBERITA DUNIA",ET Now
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 #EXTINF:0, group-title="iBERITA DUNIA",TV Punjab
 http://cdn.samtv.ca/tvpunjab/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="iBERITA DUNIA",5 News Telecinco
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
 
 #EXTINF:0 tvg-id="HBOHD.mx" group-title="VARIETY.TEST.Channel",HBO
 http://218.202.220.2:5000/nn_live.ts?id=HBO
-#EXTINF:0 tvg-id="ext" group-title="VARIETY.TEST.Channel",J'GO| FIRST MOVIES
+#EXTINF:0 tvg-id="ext" group-title="VARIETY.TEST.Channel",J'GO |FIRST MOVIES
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-#EXTINF:0 tvg-id="hd-fashion" group-title="VARIETY.TEST.Channel",HD FASHION LIFESTYLE
+#EXTINF:0 tvg-id="hd-fashion" group-title="VARIETY.TEST-FHD",HD FASHION LIFESTYLE
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VARIETY.TEST-FHD",FTV MIDNIGHT
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
