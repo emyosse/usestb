@@ -115,7 +115,6 @@ http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_alquran_big1.png",MAKKAH TV | Al Quran Al Kareem
-http://203.153.218.26:9981/stream/channelid/1040846590?ticket=CBC4FA8BD35E2FCE84BB640501CBB864D1A779CD&profile=pass
 http://rr2.dens.tv/s/s28/01.m3u8
 
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_alquran_big1.png",MADINA TV | Al Quran Al Kareem
@@ -185,6 +184,15 @@ http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 236.10.10:1935/dgrau/dgrau/live.m3u8?AndreOid
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?iptvgratis?chile.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/km7OLyO.png" group-title="iOLAHRAGA",Orange Sport HD
+http://213.151.233.20:8000/dna-6428-tv-pc/hls/4001v102.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BqwpUo3.png?1" group-title="iOLAHRAGA",BEiN Sports 6 HD
+http://94.236.230.110:3333/6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BqwpUo3.png?1" group-title="iOLAHRAGA",BEiN Sports 8 HD
+http://94.236.230.110:3333/8
+#EXTINF:-1 tvg-logo="https://thegioidohoa.com/wp-content/uploads/2017/07/thiet-ke-logo-the-thao.png" group-title="iOLAHRAGA",FEED|Live Football
+http://live.bongdaf.net/hls/7f192d20496c6f374058bd49cef5018e/5c852e7ca9000kbcJWS474/24170c558237255a1c87bb9553c73fb2/j7tfrf3/index.m3u8
+
 #EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-TV-Desa-150x67px.png" group-title="iTvD.NASIONAL",TV DESA
 http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8
 
@@ -236,6 +244,13 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1876239
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/MBC_Bollywood_logo.jpeg/250px-MBC_Bollywood_logo.jpeg" group-title="iMOVIES",[HI] MBC BOLLYWOOD
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://anakhebatindonesia.com/joimg/unit_usaha/cooking-910-Logo%20COOKING.jpg" group-title="iLIFESTYLE",COOKINGTIME
+https://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.21cineplex.com/images/mvcard_banner.jpg" group-title="24/7.iMOVIESTIME",CINEMA18+
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.21cineplex.com/images/mvcard_banner.jpg" group-title="24/7.iMOVIESTIME",CINEMA18-
+http://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1_1200.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png" group-title="iMUSIK",BOOGLE Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/Hungama_TV_logo.png" group-title="iMUSIK",DIL SE
@@ -251,7 +266,15 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/200px-Radio_m2o_-_Logo_2019.svg.png" group-title="iMUSIK",RADIOM2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="iMUSIK",GYANGCOI
+#EXTINF:-1 tvg-logo="http://www.one.by/images/logo.png" group-title="iMUSIK",One Music
+http://rtmp.one.by:1300
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png"  group-title="iMUSIK",TOP LATINO TV
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+#EXTINF:0, group-title="iMUSIK",FoxMix Musica
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0, group-title="iMUSIK",CLUBLAND
+http://178.193.147.159:9981/stream/channelid/1?ticket=9BFC3DC7D5CEA86F9FE843E14AB3D54142D729E6
+#EXTINF:0 tvg-logo="https://www.satlogo.com/hires/dd/dance_channel_jp.png" group-title="iMUSIK",DANCE CHANNEL
 http://aldirect.hls.huya.com/huyalive/30765679-2533159102-10879835498654728192-3049003136-10057-A-0-1_1200.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3b/Automoto_TV_Logo_2015.png" group-title="iLIFESTYLE",100% AutoMoto.TV
@@ -288,10 +311,9 @@ http://80.80.160.168/live/1/live.m3u8
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/800px-Arirang_logo.png" group-title="iBERITA DUNIA",ARIRANG
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b928000_sleng.m3u8
-http://amdlive.ctnd.com.edgesuite.net/arirang_2ch/smil:arirang_2ch.smil/chunklist_b1728000_sleng.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/200px-Aljazeera_eng.svg.png" group-title="iBERITA DUNIA",Aljazeera News
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/200px-Aljazeera_eng.svg.png" group-title="iBERITA DUNIA",ALJAZEERA NEWS
+https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
 #EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-logo="https://i.imgur.com/9wyJAmG.jpg?1" group-title="iBERITA DUNIA",DW TV
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?DWTV
 #EXTINF:0 tvg-logo="" group-title="iBERITA DUNIA",NewsTV Korsel
@@ -315,18 +337,15 @@ http://cdn.samtv.ca/tvpunjab/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="iBERITA DUNIA",5 News Telecinco
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
 
-#EXTINF:0 tvg-id="ONE.ca" group-title="VARIETY.TEST-FHD",ONE
-http://rtmp.one.by:1300
-#EXTINF:0 tvg-id="ext" group-title="VARIETY.TEST-FHD",ALJAZEERA ENG FHD
-https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VARIETY.TEST-FHD",ARIRANG HD
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:0 tvg-id="hd-fashion" group-title="VARIETY.TEST-FHD",HD FASHION
+#EXTINF:0 tvg-id="HBOHD.mx" group-title="VARIETY.TEST.Channel",HBO
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+#EXTINF:0 tvg-id="ext" group-title="VARIETY.TEST.Channel",J'GO| FIRST MOVIES
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+#EXTINF:0 tvg-id="hd-fashion" group-title="VARIETY.TEST.Channel",HD FASHION LIFESTYLE
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VARIETY.TEST-FHD",FASHION TV MIDNIGHT FHD
+#EXTINF:0 tvg-id="ext" group-title="VARIETY.TEST-FHD",FTV MIDNIGHT
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VARIETY.TEST-FHD",CHANNEL 2 THAI
-http://stream.rs.co.th/ch2-hi/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O4smWGY.png" group-title="iOLAHRAGA",Bein Sports La Liga |trial
 http://www.sansat.net:25461/6yong314/N8r3cqKaXE/14991
