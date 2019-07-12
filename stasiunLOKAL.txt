@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",EMYosse64.Ch++
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",EMYosse100+CH iTVD
 http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8?EDSONSOUSALIST
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TVRILogo2006.svg/320px-TVRILogo2006.svg.png" group-title="iTV.NASIONAL",TVRI
@@ -343,40 +343,41 @@ http://cdn.samtv.ca/tvpunjab/index.m3u8
 
 #EXTINF:0 tvg-logo="http://tv.sarcheshmeh.us/index_files/channels/hdfashion.png" group-title="EMY[VIP]",HD.FASHION LIFESTYLE |FHD
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
-#EXTINF:0 tvg-logo="https://de.m.wikipedia.org/wiki/Datei:Fashion_tv_hd.png" group-title="EMY[VIP]",FTV MIDNIGHT |FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://de.m.wikipedia.org/wiki/Datei:Fashion_tv_hd.png" group-title="EMY[VIP]",FTV MIDNIGHT |FHD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="EMY[VIP]",MBC MAX 
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/0560cd3757ba28d0525e524fe0d98c1b95721c5ecf5fda464eba3084eeed7f36.png" group-title="EMY[VIP]",RED BULL TV |FHD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JrFPfz2.jpg" group-title="EMY[VIP]",EDGE Sport |FHD
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
+#EXTINF:-1 tvg-id="82541" tvg-logo="https://i.imgur.com/NU0hm5b.png?1" group-title="EMY[VIP]",FS1 SPORTS
+http://23.237.22.82:8086/udp/127.0.0.1:56046
+#EXTINF:-1 tvg-id="33178" tvg-logo="https://i.imgur.com/bc2KyDG.png?1" group-title="EMY[VIP]",FS2 SPORTS
+http://23.237.22.82:8086/udp/127.0.0.1:56047
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BqwpUo3.png?1" group-title="EMY[VIP]",BEiNSports6 HD
+http://94.236.230.110:3333/6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BqwpUo3.png?1" group-title="EMY[VIP]",BEiNSports8 HD
+http://94.236.230.110:3333/8
+#EXTINF:-1 tvg-id="abudhabisports1.ae" tvg-logo="https://i.imgur.com/LxwN0hz.jpg?1" group-title="EMY[VIP]",ADSport1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?VIPIPTV
+#EXTINF:-1 tvg-id="abudhabisports2.ae" tvg-logo="https://i.imgur.com/DMp3OWK.jpg?1" group-title="EMY[VIP]",ADSport2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/X5v2LSl.jpg?1" group-title="EMY[VIP]",J'GO |FIRST MOVIES
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 #EXTINF:0 tvg-id="NationalGeographic.uk" group-title="EMY[VIP]",[id] National Geographic
 http://203.153.218.26:9981/stream/channelid/1159590602?ticket=1E34ECC57050E107C6B5221BF8D822D94E071607&profile=pass
 #EXTINF:-1 logo="http://tv.dekagon.id/logo/history_us.png" tvg-id="fbd303b30ae4cb8e3ad9b70dc26c5b01"" group-title="EMY[VIP]",[id] HISTORY
 http://203.153.218.26:9981/stream/channelid/855888891?ticket=75B240529141E86B871F1123AEF96066842D848F&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="EMY[VIP]",K+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="EMY[VIP]",[id] K+
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-id="divahd.id"  tvg-logo="https://i.imgur.com/etOX9pP.png?1" group-title="EMY[VIP]",[id] DIVA
 http://210.210.155.35/uq2663/h/h11/index.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/vr1yRyl.jpg?2" group-title="EMY[VIP]",[id] MyCINEMA
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="EMY[VIP]",MBC MAX 
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
 #EXTINF:-1 logo="http://tv.dekagon.id/logo/fox_movies_family.png" tvg-id="2c3bbeac9d7621a579b275bc2ed6f67b" group-title="EMY[VIP]",[id] FOX Family Movies
 http://203.153.218.26:9981/stream/channelid/750664492?ticket=A527AFBD2805DE45C765902D98E3776BF5C4FD0C&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BqwpUo3.png?1" group-title="EMY[VIP]",BEiNSports6 HD
-http://94.236.230.110:3333/6
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BqwpUo3.png?1" group-title="EMY[VIP]",BEiNSports8 HD
-http://94.236.230.110:3333/8
-#EXTINF:-1 tvg-id="82541" tvg-logo="https://i.imgur.com/NU0hm5b.png?1" group-title="EMY[VIP]",FS1 SPORTS
-http://23.237.22.82:8086/udp/127.0.0.1:56046
-#EXTINF:-1 tvg-id="33178" tvg-logo="https://i.imgur.com/bc2KyDG.png?1" group-title="EMY[VIP]",FS2 SPORTS
-http://23.237.22.82:8086/udp/127.0.0.1:56047
-#EXTINF:-1 tvg-id="abudhabisports1.ae" tvg-logo="https://i.imgur.com/LxwN0hz.jpg?1" group-title="EMY[VIP]",ADSport1
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?VIPIPTV
-#EXTINF:-1 tvg-id="abudhabisports2.ae" tvg-logo="https://i.imgur.com/DMp3OWK.jpg?1" group-title="EMY[VIP]",ADSport2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/0560cd3757ba28d0525e524fe0d98c1b95721c5ecf5fda464eba3084eeed7f36.png" group-title="EMY[VIP]",RED BULL TV |FHD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JrFPfz2.jpg" group-title="EMY[VIP]",EDGE Sport |FHD
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O4smWGY.png" group-title="iOLAHRAGA",trial| Bein Sports La Liga
 http://www.sansat.net:25461/6yong314/N8r3cqKaXE/14991
