@@ -7,7 +7,7 @@ http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8?EDSONSOUSALIST
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 http://202.80.222.171/000001/2/ch14041511560872104862/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/100px-RCTI_logo_2015.svg.png" group-title="iTV.NASIONAL",RCTI
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/6e/Rcti_%282%29.png/320px-Rcti_%282%29.png" group-title="iTV.NASIONAL",RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 http://id8.indostreamingtv.com/live/tv66/index.m3u8
 
@@ -173,7 +173,7 @@ http://rr2.dens.tv/s/s10/01.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/23/Mayapada_TV.png/200px-Mayapada_TV.png" group-title="iTV.NASIONAL",MyTV
 http://rr.dens.tv/h/h40/S4/mnf.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/74/Liga_1_Shopee.png/200px-Liga_1_Shopee.png" group-title="iOLAHRAGA",LIGA SHOOPEE |Indosiar
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/74/Liga_1_Shopee.png/200px-Liga_1_Shopee.png" group-title="iOLAHRAGA",LIGA SHOOPEE
 http://id2.indostreamingtv.com/live/tv111/index.m3u8
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-SF--WlsZW-s/XIWrQuZ0AUI/AAAAAAAAndo/SmJwjLdjPTEFj5oAKC3bpPS0jaJCy3UWgCLcBGAs/s1600/super-soccer-tv-channel-logo.png" group-title="iOLAHRAGA",SUPER SOCCER TV
 http://210.210.155.35/uq2663/h/h20/index1.m3u8
@@ -190,11 +190,11 @@ http://45.58.62.92:8080
 http://213.151.233.20:8000/dna-6428-tv-pc/hls/4001v102.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/CCTV-5%2B%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png" group-title="iOLAHRAGA",CCTV 5+
 http://203.154.243.89:1215
-#EXTINF:-1 tvg-logo="http://static1.squarespace.com/static/57d836b1c534a5e4e6e7bf6f/57e0489e440243c6a9a6445c/5991a1df03596e7caf6a2028/1502722826069/2017+NBA+TV+Logo.jpg?format=1000w" group-title="SPORT",  NBA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/150px-NBA_TV.svg.png" group-title="iOLAHRAGA",NBA TV
 http://23.237.22.82:8086/udp/127.0.0.1:56052
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zbxkhbs.jpg?1" group-title="iOLAHRAGA",Setanta Sports
 http://ott-cdn.ucom.am/s81/index.m3u8?
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1553.pngFlow" group-title="iOLAHRAGA",Flow Sports
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1553.png" group-title="iOLAHRAGA",Flow Sports
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF:-1 tvg-logo="https://thegioidohoa.com/wp-content/uploads/2017/07/thiet-ke-logo-the-thao.png" group-title="iOLAHRAGA",FEED |Live Football
 http://live.bongdaf.net/hls/7f192d20496c6f374058bd49cef5018e/5c852e7ca9000kbcJWS474/24170c558237255a1c87bb9553c73fb2/j7tfrf3/index.m3u8
@@ -233,6 +233,8 @@ http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
 http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
 #EXTINF:0 tvg-logo="http://acrotv.com/images/broad/20181001120904357.jpeg" group-title="iMOVIES",HBO HOME |FHD
 http://109.248.236.41:4433/udp/238.1.1.71:1234
+#EXTINF:0 tvg-id="HBOHD.mx" group-title="iMOVIES",HBO
+http://218.202.220.2:5000/nn_live.ts?id=HBO
 #EXTINF:0 tvg-logo="http://acrotv.com/images/broad/20181002122548428.jpg" group-title="iMOVIES",RAI MOVIE
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:0 tvg-logo="http://acrotv.com/images/broad/20181002122916646.png" group-title="iMOVIES",RAI PREMIUM
@@ -339,32 +341,42 @@ http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 #EXTINF:0, group-title="iBERITA DUNIA",TV Punjab
 http://cdn.samtv.ca/tvpunjab/index.m3u8
 
-#EXTINF:0 tvg-id="HBOHD.mx" group-title="VARIETY.TEST.Channel",HBO
-http://218.202.220.2:5000/nn_live.ts?id=HBO
-#EXTINF:0 tvg-id="ext" group-title="VARIETY.TEST.Channel",J'GO |FIRST MOVIES
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-
-#EXTINF:0 tvg-id="hd-fashion" group-title="VARIETY.TEST-FHD",HD FASHION LIFESTYLE |FHD
+#EXTINF:0 tvg-logo="http://tv.sarcheshmeh.us/index_files/channels/hdfashion.png" group-title="EMY[VIP]",HD.FASHION LIFESTYLE |FHD
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VARIETY.TEST-FHD",FTV MIDNIGHT |FHD
+#EXTINF:0 tvg-logo="https://de.m.wikipedia.org/wiki/Datei:Fashion_tv_hd.png" group-title="EMY[VIP]",FTV MIDNIGHT |FHD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-
-
-#EXTINF:-1 tvg-id="82541" tvg-logo="https://i.imgur.com/NU0hm5b.png?1" group-title="iOLAHRAGA[VIP]",FS1 SPORTS
-http://23.237.22.82:8086/udp/127.0.0.1:56046
-#EXTINF:-1 tvg-id="33178" tvg-logo="https://i.imgur.com/bc2KyDG.png?1" group-title="iOLAHRAGA[VIP]",FS2 SPORTS
-http://23.237.22.82:8086/udp/127.0.0.1:56047
-#EXTINF:-1 tvg-id="abudhabisports1.ae" tvg-logo="https://i.imgur.com/LxwN0hz.jpg?1" group-title="iOLAHRAGA[VIP]",ADSport1
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?VIPIPTV
-#EXTINF:-1 tvg-id="abudhabisports2.ae" tvg-logo="https://i.imgur.com/DMp3OWK.jpg?1" group-title="iOLAHRAGA[VIP]",ADSport2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/0560cd3757ba28d0525e524fe0d98c1b95721c5ecf5fda464eba3084eeed7f36.png" group-title="iOLAHRAGA[VIP]",RED BULL TV |FHD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JrFPfz2.jpg" group-title="iOLAHRAGA[VIP]",EDGE Sport |FHD
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="iMOVIES",K+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="EMY[VIP]",MBC MAX 
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/X5v2LSl.jpg?1" group-title="EMY[VIP]",J'GO |FIRST MOVIES
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="EMY[VIP]",[id] National Geographic
+http://203.153.218.26:9981/stream/channelid/1159590602?ticket=1E34ECC57050E107C6B5221BF8D822D94E071607&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/history_us.png" tvg-id="fbd303b30ae4cb8e3ad9b70dc26c5b01"" group-title="EMY[VIP]",[id] HISTORY
+http://203.153.218.26:9981/stream/channelid/855888891?ticket=75B240529141E86B871F1123AEF96066842D848F&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="EMY[VIP]",K+
 http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:-1 tvg-id="divahd.id"  tvg-logo="https://i.imgur.com/etOX9pP.png?1" group-title="EMY[VIP]",[id] DIVA
+http://210.210.155.35/uq2663/h/h11/index.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/vr1yRyl.jpg?2" group-title="EMY[VIP]",[id] MyCINEMA
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/fox_movies_family.png" tvg-id="2c3bbeac9d7621a579b275bc2ed6f67b" group-title="EMY[VIP]",[id] FOX Family Movies
+http://203.153.218.26:9981/stream/channelid/750664492?ticket=A527AFBD2805DE45C765902D98E3776BF5C4FD0C&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BqwpUo3.png?1" group-title="EMY[VIP]",BEiNSports6 HD
+http://94.236.230.110:3333/6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BqwpUo3.png?1" group-title="EMY[VIP]",BEiNSports8 HD
+http://94.236.230.110:3333/8
+#EXTINF:-1 tvg-id="82541" tvg-logo="https://i.imgur.com/NU0hm5b.png?1" group-title="EMY[VIP]",FS1 SPORTS
+http://23.237.22.82:8086/udp/127.0.0.1:56046
+#EXTINF:-1 tvg-id="33178" tvg-logo="https://i.imgur.com/bc2KyDG.png?1" group-title="EMY[VIP]",FS2 SPORTS
+http://23.237.22.82:8086/udp/127.0.0.1:56047
+#EXTINF:-1 tvg-id="abudhabisports1.ae" tvg-logo="https://i.imgur.com/LxwN0hz.jpg?1" group-title="EMY[VIP]",ADSport1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?VIPIPTV
+#EXTINF:-1 tvg-id="abudhabisports2.ae" tvg-logo="https://i.imgur.com/DMp3OWK.jpg?1" group-title="EMY[VIP]",ADSport2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/0560cd3757ba28d0525e524fe0d98c1b95721c5ecf5fda464eba3084eeed7f36.png" group-title="EMY[VIP]",RED BULL TV |FHD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JrFPfz2.jpg" group-title="EMY[VIP]",EDGE Sport |FHD
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O4smWGY.png" group-title="iOLAHRAGA",trial| Bein Sports La Liga
 http://www.sansat.net:25461/6yong314/N8r3cqKaXE/14991
