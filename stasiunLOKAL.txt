@@ -201,9 +201,6 @@ http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 http://live.bongdaf.net/hls/7f192d20496c6f374058bd49cef5018e/5c852e7ca9000kbcJWS474/24170c558237255a1c87bb9553c73fb2/j7tfrf3/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Spacetoon.id" tvg-logo="https://i.imgur.com/WpgjSAK.jpg?1" group-title="ANAK-ANAK",Spacetoon
-http://210.210.155.35/x6bnqe/s/s80/S4/mnf.m3u8
-
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_aniplus_big1.png" group-title="ANAK-ANAK",ANIPLUS
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 
@@ -232,10 +229,10 @@ http://203.153.218.26:9981/stream/channelid/1550146228?ticket=08D5C0CE1FAC06AC98
 http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
 #EXTINF:-1 tvg-id="ccm.id" tvg-logo="https://i.imgur.com/Nm60d2s.jpg" group-title="iMOVIES",Celestial Classic Movies
 http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
-#EXTINF:0 tvg-logo="http://acrotv.com/images/broad/20181001120904357.jpeg" group-title="iMOVIES",HBO HOME |FHD
-http://109.248.236.41:4433/udp/238.1.1.71:1234
 #EXTINF:0 tvg-id="HBOHD.mx" group-title="iMOVIES",HBO
 http://218.202.220.2:5000/nn_live.ts?id=HBO
+#EXTINF:0 tvg-id="ext" group-title="iMOVIES,HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 #EXTINF:0 tvg-logo="http://acrotv.com/images/broad/20181002122548428.jpg" group-title="iMOVIES",RAI MOVIE
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:0 tvg-logo="http://acrotv.com/images/broad/20181002122916646.png" group-title="iMOVIES",RAI PREMIUM
