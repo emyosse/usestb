@@ -376,7 +376,3 @@ http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
 #EXTINF:-1 logo="http://tv.dekagon.id/logo/fox_movies_family.png" tvg-id="2c3bbeac9d7621a579b275bc2ed6f67b" group-title="EMY[VIP]",[id] FOX Family Movies
 http://203.153.218.26:9981/stream/channelid/750664492?ticket=A527AFBD2805DE45C765902D98E3776BF5C4FD0C&profile=pass
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O4smWGY.png" group-title="iOLAHRAGA",trial| Bein Sports La Liga
-http://www.sansat.net:25461/6yong314/N8r3cqKaXE/14991
-#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-logo="https://i.imgur.com/iFzRQ1A.png?1" group-title="iOLAHRAGA",trial| Sony Ten 1
-http://www.sansat.net:25461/6yong314/N8r3cqKaXE/23924
