@@ -317,8 +317,6 @@ http://80.80.160.168/live/1/live.m3u8
 http://210.210.155.35/uq2663/h/h29/01.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/200px-Aljazeera_eng.svg.png" group-title="World News Today",ALJAZEERA NEWS
 https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="World News Today",CNBC International
-http://ott-cdn.ucom.am/s65/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ABC_News_solid_black_logo.svg/512px-ABC_News_solid_black_logo.svg.png" group-title="World News Today",ABC NEWS
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8?sd=10&rebase=on#EXTINF:0 tvg-id="CNN.nws" group-title="World News Today",CNN International
 https://1259541102.rsc.cdn77.org/LS-ATL-54548-9/index.m3u8?fluxustv.m3u8
@@ -327,7 +325,7 @@ http://ott-cdn.ucom.am/s24/index.m3u8
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="World News Today",CNBC World
 http://161.0.157.9/PLTV/88888888/224/3221227005/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6WLMLi6.png" group-title="PALESTINE",Palestine Today
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6WLMLi6.png" group-title="World News Today",Palestine Today
 http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 #EXTINF:0 tvg-id="ext" group-title="World News Today",UA TV
 http://210.210.155.35/qwr9ew/s/s47/01.m3u8
