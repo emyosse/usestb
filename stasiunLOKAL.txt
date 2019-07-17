@@ -373,6 +373,9 @@ http://210.210.155.35/uq2663/h/h11/index.m3u8
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="EMY[VIP]",MBC MAX 
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
+#EXTINF:-1 tvg-id="AXN.id" tvg-logo="https://i.imgur.com/KcDXOqV.jpg?1" group-title="EMY[VIP]",[id] AXN
+http://203.153.218.26:9981/stream/channelid/2032967620?ticket=A5619860B84CB903D4540BB9203120F71F678C5D&profile=pass
+
 #EXTINF:-1 logo="http://tv.dekagon.id/logo/fox_movies_family.png" tvg-id="2c3bbeac9d7621a579b275bc2ed6f67b" group-title="EMY[VIP]",[id] FOX Family Movies
 http://203.153.218.26:9981/stream/channelid/750664492?ticket=A527AFBD2805DE45C765902D98E3776BF5C4FD0C&profile=pass
 
